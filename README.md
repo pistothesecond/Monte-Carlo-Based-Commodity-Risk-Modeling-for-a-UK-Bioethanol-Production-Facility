@@ -19,6 +19,7 @@ Support data-driven decisions on procurement, hedging, and investment
 Bioethanol plants in the UK rely on wheat feedstock and sell ethanol into the E10 petrol blend market. Both feedstock costs and product prices are volatile, creating financial risk. Monte Carlo simulation allows probabilistic assessment of profitability and risk mitigation strategies.
 
 **DATA SOURCES**
+
 Historical UK wheat prices (e.g., AHDB or CME)
 
 Ethanol wholesale prices in the UK
