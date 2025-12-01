@@ -2,8 +2,7 @@
 
 This project models how wheat, energy, and ethanol price volatility affects the profitability of a wheat-to-bioethanol plant supplying the UK E10 market. Using Monte Carlo simulation, it quantifies financial risk, identifies key cost drivers, and evaluates the likelihood of loss or reduced margins.
 
-**Objectives
-**
+**Objectives**
 Assess financial exposure to wheat, ethanol, and energy price fluctuations
 
 Estimate distributions of EBITDA and NPV
