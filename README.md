@@ -2,8 +2,8 @@
 
 This project models how wheat, energy, and ethanol price volatility affects the profitability of a wheat-to-bioethanol plant supplying the UK E10 market. Using Monte Carlo simulation, it quantifies financial risk, identifies key cost drivers, and evaluates the likelihood of loss or reduced margins.
 
-Objectives
-
+**Objectives
+**
 Assess financial exposure to wheat, ethanol, and energy price fluctuations
 
 Estimate distributions of EBITDA and NPV
@@ -14,11 +14,11 @@ Simulate extreme scenarios, such as policy or import shocks
 
 Support data-driven decisions on procurement, hedging, and investment
 
-Background
+**Background**
 
 Bioethanol plants in the UK rely on wheat feedstock and sell ethanol into the E10 petrol blend market. Both feedstock costs and product prices are volatile, creating financial risk. Monte Carlo simulation allows probabilistic assessment of profitability and risk mitigation strategies.
 
-Data Sources
+**Data Sources**
 
 Historical UK wheat prices (e.g., AHDB or CME)
 
@@ -28,7 +28,7 @@ Natural gas/electricity prices for plant energy costs
 
 DDGS/animal feed co-product prices
 
-Methodology
+**Methodology**
 
 Collect and preprocess historical price data
 
@@ -40,7 +40,7 @@ Calculate yearly cash flows, EBITDA, and NPV for each scenario
 
 Analyze distributions and compute risk metrics (e.g., probability of negative NPV, Value at Risk)
 
-Usage
+**Usage**
 
 Install dependencies: numpy, pandas, matplotlib
 
@@ -48,7 +48,7 @@ Run the Monte Carlo simulation script: python montecarlo_wheat_uk_ethanol.py
 
 Modify plant-specific parameters (capacity, CAPEX, OPEX) in the configuration section of the script
 
-Outputs
+**Outputs**
 
 Histograms of NPV and EBITDA distributions
 
