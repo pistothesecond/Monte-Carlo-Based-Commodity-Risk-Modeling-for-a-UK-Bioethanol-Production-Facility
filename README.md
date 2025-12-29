@@ -9,7 +9,7 @@ This project models how wheat, energy, and ethanol price volatility affects the 
 - outputs/ – figures and results
 - tests/ – unit tests
 
-**OBJECTIVES**
+## OBJECTIVES
 
 Assess financial exposure to wheat, ethanol, and energy price fluctuations
 
@@ -21,7 +21,7 @@ Simulate extreme scenarios, such as policy or import shocks
 
 Support data-driven decisions on procurement, hedging, and investment
 
-**BACKGROUND**
+## BACKGROUND
 
 Bioethanol plants in the UK rely on wheat feedstock and sell ethanol into the E10 petrol blend market. Both feedstock costs and product prices are volatile, creating financial risk. Monte Carlo simulation allows probabilistic assessment of profitability and risk mitigation strategies.
 
